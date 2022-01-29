@@ -1,9 +1,9 @@
 <?php
 
 $server   = "localhost";
-$username = "alexehtb_restaurantlist";
-$password = "Fritangaislife300";
-$database = "alexehtb_restaurantlist";
+$username = "";
+$password = "";
+$database = "";
 
 $conn = mysqli_connect($server, $username, $password, $database);
 
